@@ -1,30 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: March 28, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Wrote the base code for my ruby function
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I really feel that I have promptly forgotten everything I learnt of ruby and much of today was spent relearning rather than coding
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Weight loss Calculator App](https://github.com/Cathy93/weightlosspredictor)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: March 29, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Managed to get the calculations working weightloss predictor.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I now have a better understanding of how numbers an d in particular decimal points are used in ruby. It was a sticking point that I had some trouble with to get the program to accurately calculate small numbers.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [Weight loss Calculator App](https://github.com/Cathy93/weightlosspredictor)
